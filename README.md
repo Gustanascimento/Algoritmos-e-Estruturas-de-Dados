@@ -2,8 +2,6 @@
 
 ## Repositório com anotações e implementações em Python dos conceitos mais comuns vistos na disciplina de Algoritmos e Estruturas de Dados
 
-![alt text](https://evatronix.com/images/en/offer/product-design/product-development/Evatronix_Algorithm_development_and_analysis_01_1920x1080.jpg)
-
 ### 0 - Análise de Complexidade
 * 0.1 - Notação Big Tetha - To Be Done
 * 0.2 - Notação Big O - To Be Done
@@ -57,3 +55,5 @@
 * 6.5 Os problemas da Sub-Sequência e Sub-Sequência comum mais longa - To Be Done
 * 6.6 Árvores de Busca Binária Ótimas - To Be Done
 * 6.7 O problema da Mochila 0,1
+
+![alt text](https://evatronix.com/images/en/offer/product-design/product-development/Evatronix_Algorithm_development_and_analysis_01_1920x1080.jpg)
