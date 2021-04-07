@@ -1,11 +1,11 @@
 # Algoritmos-e-Estruturas-de-Dados
 
-##Repositório com anotações e implementações em Python dos conceitos mais comuns vistos na disciplina de Algoritmos e Estruturas de Dados
+## Repositório com anotações e implementações em Python dos conceitos mais comuns vistos na disciplina de Algoritmos e Estruturas de Dados
 
 0 - Análise de Complexidade
-*0.1 - Notação Big Tetha - To Be Done
-*0.2 - Notação Big O - To Be Done
-*0.3 - Notação Big Ômega - To Be Done
+* 0.1 - Notação Big Tetha - To Be Done
+* 0.2 - Notação Big O - To Be Done
+* 0.3 - Notação Big Ômega - To Be Done
 	
 
 1 - Estruturas de Dados
