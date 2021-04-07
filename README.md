@@ -9,7 +9,7 @@
 	
 
 ### 1 - Estruturas de Dados
-* 1.1 Vetores e matrizes
+* 1.1 Vetores e matrizes - To Be Done
 * 1.2 Lista Ligada
 * 1.3 Pilhas
 * 1.4 Filas
