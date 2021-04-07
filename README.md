@@ -44,8 +44,8 @@
 * 5.2 Verificando se Grafo possui Ciclos
 * 5.2 Algoritmo de Menor caminh por Disjkstra
 * 5.3 Bellman-Ford - To be done
-* 5.4 Árvore Geradora Mínima de Prim 
-* 5.5 Árvore Geradora Mínima de Kruskal
+* 5.4 Árvore Geradora Mínima de Prim - To be done
+* 5.5 Árvore Geradora Mínima de Kruskal - To be done
 	
 ### 6 - Programação Dinâmica
 * 6.1 Fibonacci com Programação Dinâmica - To Be Done
